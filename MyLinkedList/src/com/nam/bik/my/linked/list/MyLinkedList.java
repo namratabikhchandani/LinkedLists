@@ -101,6 +101,9 @@ public class MyLinkedList<T extends Comparable<T>> {
 	}
 	
 	public void removeFront(){
+		if(head != null){
+			
+		}
 	}
 	
 	public void removeEnd() {	
